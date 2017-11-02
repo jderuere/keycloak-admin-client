@@ -1689,7 +1689,7 @@
     "contentSecurityPolicy" : "frame-src 'self'"
   },
   "smtpServer" : { },
-  "eventsEnabled" : false,
+  "eventsEnabled" : true,
   "eventsListeners" : [ "jboss-logging" ],
   "enabledEventTypes" : [ ],
   "adminEventsEnabled" : false,
